@@ -1,0 +1,6 @@
+#cloud-config
+
+# Set hostname, domain name, update host file
+hostname: almalap
+fqdn: almalap.lab.jonasbird.tech
+manage_etc_hosts: true
